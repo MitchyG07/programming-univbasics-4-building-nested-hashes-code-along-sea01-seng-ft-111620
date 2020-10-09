@@ -14,7 +14,6 @@ def fourth_challenge
           :age => "18",
           :attitude => "hot-headed"
         }
-        #your hashes here!
       ]
    }, 
    :capulet => {
@@ -34,7 +33,5 @@ def fourth_challenge
       ]
    }
 }
-
-  
 
 end
